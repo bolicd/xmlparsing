@@ -1,0 +1,6 @@
+E:\repos\XmlParsingProducerConsumer\XmlParsingProducerConsumer\bin\Debug\XmlParsingProducerConsumer.exe.config
+E:\repos\XmlParsingProducerConsumer\XmlParsingProducerConsumer\bin\Debug\XmlParsingProducerConsumer.exe
+E:\repos\XmlParsingProducerConsumer\XmlParsingProducerConsumer\bin\Debug\XmlParsingProducerConsumer.pdb
+E:\repos\XmlParsingProducerConsumer\XmlParsingProducerConsumer\obj\Debug\XmlParsingProducerConsumer.exe
+E:\repos\XmlParsingProducerConsumer\XmlParsingProducerConsumer\obj\Debug\XmlParsingProducerConsumer.pdb
+E:\repos\XmlParsingProducerConsumer\XmlParsingProducerConsumer\bin\Debug\books.xml
